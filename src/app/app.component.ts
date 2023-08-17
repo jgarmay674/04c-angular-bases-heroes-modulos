@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '04c-angular-bases-heroes-modulos';
+  title = '02-angular-bases-heroes';
 }
